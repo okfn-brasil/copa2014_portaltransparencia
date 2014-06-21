@@ -1,0 +1,13 @@
+IdEtapa	bigint	Identificador da etapa-PK.	
+IdEmpreendimento	bigint	Identificador do empreendimento associado à etapa.	
+IdTipoEtapa	bigint	Identificador do tipo de etepa associada à etapa.	
+DatInicio	datetime	Data de início previsto da etapa.	
+DatFim	datetime	Data de conclusão  prevista da etapa.	
+DatReprogramacao	datetime	Data de início reprogramado da etapa.	
+DatInicioEfetiva	datetime	Data de início efetivo da etapa.	
+DatFimEfetiva	datetime	Data de conclusão efetiva da etapa.	
+DatReprogramacaoEfetiva	datetime	Data de conclusão reprogramada da etapa.	
+NumEtapa	varchar	Numero da Etapa no Empreendimento.	
+FlgAtivo	bit	Indicador da situação da  Etapa (Ativa ou Excluída).	
+FlgExclusaoDependencia	bit	Indicativo de exclusão por dependencia.	
+FlgPublicadoExclusao	bit	Indicativo de publicacao de exclusão.	

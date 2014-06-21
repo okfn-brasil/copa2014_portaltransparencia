@@ -1,0 +1,2 @@
+IdAndamento	bigint	Identificador do andamento-PK.	
+DescAndamento	varchar	Descrição do andamento.	

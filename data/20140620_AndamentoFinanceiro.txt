@@ -1,0 +1,2 @@
+IdAndamentoFinanceiro	bigint	Identificador do andamento financeiro.	
+DescAndamentoFinanceiro	varchar	Texto que descreve o andamento financeiro.	

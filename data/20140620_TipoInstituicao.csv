@@ -1,0 +1,7 @@
+1;"Banco Federal";TRUE;"União";
+2;"Governo Federal";FALSE;"União";
+3;"Governo Estadual";FALSE;"Estado";
+4;"Governo Municipal";FALSE;"Município";
+5;"Governo Distrital";FALSE;"Estado";
+6;"Entidade Privada";FALSE;"Setor privado";
+7;"Empresa Estrangeira";FALSE;"Setor privado";

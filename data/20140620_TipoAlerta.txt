@@ -1,0 +1,2 @@
+IdTipoAlerta	bigint	Identificador do tipo alerta-PK.	
+DescTipoAlerta	varchar	Descrição do tipo de alerta.	

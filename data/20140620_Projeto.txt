@@ -1,0 +1,2 @@
+IdProjeto	bigint	Identificador de projeto-PK.	
+DescProjeto	varchar	Descrição do projeto do empreendimento.	

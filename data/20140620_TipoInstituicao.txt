@@ -1,0 +1,3 @@
+IdTipoInstituicao	bigint	Identificador do tipo de instituição-PK.	
+DescTipoInstituicao	varchar	Nome do tipo de instituição.	
+FlgFinanciador	bit	Indica se o tipo de instituição é ou não financiadora. 	

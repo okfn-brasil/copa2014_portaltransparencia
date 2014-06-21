@@ -1,0 +1,3 @@
+IdFonteRecurso	bigint	Identificador da Fonte do Recurso-PK.	
+NumFonteRecurso	varchar	Número da fonte do recurso.	
+NomFonteRecurso	varchar	Texto que descreve o nome da fonte do recurso.	

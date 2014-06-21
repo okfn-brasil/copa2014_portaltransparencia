@@ -1,0 +1,4 @@
+IdRecursoOperacao	bigint	Identificador da operação de crédito do empreenidmento-PK.	
+DescRecursoOperacao	varchar	Nome da operação financeira.	
+DescPapel	varchar	Descrição do Papel que a instituição financeira exerce no financiamento.	
+DescPapelContraPartida	varchar	Identificador do Papel que a instituição da contrapartida exerce no financiamento.	

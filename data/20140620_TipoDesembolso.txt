@@ -1,0 +1,2 @@
+IdTipoDesembolso	bigint	Identificador de Tipo Desembolso-PK.	
+DescTipoDesembolso	varchar	Descrição do tipo de desembolso.	

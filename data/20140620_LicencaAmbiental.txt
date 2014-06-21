@@ -1,0 +1,2 @@
+IdLicencaAmbiental	bigint	Identificador de licença ambiental-PK.	
+DescLicencaAmbiental	varchar	Descrição de licença ambiental.	

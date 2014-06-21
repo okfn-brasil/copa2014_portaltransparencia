@@ -1,0 +1,2 @@
+IdTipoRecursoCaptado	bigint	Identificador de Tipo Recurso Captado-PK.	
+DescTipoRecursoCaptado	varchar	Texto que descreve o tipo de recurso captado.	

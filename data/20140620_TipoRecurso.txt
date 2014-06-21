@@ -1,0 +1,2 @@
+IdTipoRecurso	bigint	Identificador do tipo recurso-PK.	
+DescTipoRecurso	varchar	Descrição do tipo de recurso.	

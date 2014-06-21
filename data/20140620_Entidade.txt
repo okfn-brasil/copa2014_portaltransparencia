@@ -1,0 +1,2 @@
+IdEntidade	bigint	Identificador da entidade-PK.	
+DescEntidade	varchar	Descrição da entidade.	

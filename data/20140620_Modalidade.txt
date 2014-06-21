@@ -1,0 +1,2 @@
+IdModalidade	bigint	Identificador de modalidade-PK.	
+DescModalidade	varchar	Descrição de modalidade.	

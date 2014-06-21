@@ -1,0 +1,3 @@
+IdPessoaFisica	bigint	Identificador de pessoa física-PK.	
+NomPessoaFisica	varchar	Nome da pessoa física.	
+NumCpf	varchar	Número do CPF da pessoa física.	

@@ -1,0 +1,2 @@
+IdTema	bigint	Identificador de tema-PK.	
+DescTema	varchar	Nome do tema.	

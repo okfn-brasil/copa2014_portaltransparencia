@@ -1,0 +1,14 @@
+IdAditivo	bigint	Identificador do aditivo-PK. 	
+NumAditivo	varchar	Número do aditivo.	
+DatAssinatura	datetime	Data e hora de preenchimento de um aditivo.	
+DatInicioVigencia	datetime	Data do início da vigência.	
+DatFinalVigencia	datetime	Data do final da vigência.	
+ValTotal	decimal	Valor do aditivo.	
+DescObjeto	varchar	Descrição do objeto do aditivo.	
+FlgAtivo	bit	Indicador da situação do aditivo(Ativo ou Inativo). 	
+IdRecursoCaptado	bigint	Identificador do Recurso Captado associado ao aditivo.	
+ValCedido	decimal	Valor cedido de aditivo.	
+ValContrapartida	decimal	Valor contrapartida de aditivo.	
+IdExecucaoFinanceira	bigint	Identificador de Execução Financeira associada ao aditivo.	
+FlgExclusaoDependencia	bit	Indicativo de exclusão por dependencia.	
+FlgPublicadoExclusao	bit	Indicativo de publicacao de exclusão.	

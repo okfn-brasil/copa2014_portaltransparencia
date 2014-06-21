@@ -1,0 +1,23 @@
+IdAlerta	bigint	Identificador de alerta-PK.	
+DthAlerta	datetime	Data e hora da apresentação do alerta.	
+IdRecursoPrevisto	bigint	Identificador do recurso previsto associado ao alerta.	
+IdEtapa	bigint	Identificador da etapa associada ao alerta.	
+IdEmpreendimento	bigint	Identificador do empreendimento associado ao alerta.	
+DescMensagem	ntext	Mensagem gravada durante a geração do alerta.	
+FlgHomologado	bit	Indica se o alerta está homologado ou não.	
+IdGrupo	bigint	Identificador do grupo associado ao alerta.	
+IdEntidade	bigint	Identificador da entidade associada ao alerta. 	
+NomUsuario	varchar	Nome do usuário associado ao alerta.	
+IdUsuario	bigint	Identificador do usuário associado ao alerta.	
+IdTipoLogOperacao	bigint	Identificador do Tipo Log Operação associado ao alerta.	
+IdArquivo	bigint	Identificador do arquio associado ao alerta.	
+IdInstituicao	bigint	Identificador da instituição associada ao alerta.	
+NomInstituicao	varchar	Nome da instituição associada ao alerta.	
+IdLicitacao	bigint	Identificador da licitação associada ao alerta.	
+IdRecursoCaptado	bigint	Identificador de recurso captado associado ao alerta.	
+IdDesembolso	bigint	Identificador do desembolso associado ao alerta.	
+IdAditivo	bigint	Identificador do aditivo associado ao alerta.	
+IdExecucaoFinanceira	bigint	Identificador da Execução Financeira associada ao alerta.	
+IdLicenca	bigint	Identificador da licença associada ao alerta.	
+IdRelatorioExecucao	bigint	Identificador do Relatório Execução associado ao alerta.	
+IdRecurso	bigint	Identificador do Recurso associado ao alerta.	

@@ -1,0 +1,16 @@
+IdLicenca	bigint	Identificador de Licenca-PK.	
+IdEmpreendimento	bigint	Identificador do empreendimento associado à licença.	
+IdTipoLicenca	bigint	Identificador do tipo de licenca associado à licença.	
+IdLicencaAmbiental	bigint	Identificador da licença ambiental associada à licença.	
+FlgDispensaLicenca	bit	Indica se a licença tem dispença ou não.	
+NumLicenca	varchar	Número da licença.	
+DescLicenca	varchar	Descrição da licença.	
+DatExpedicao	datetime	Data de expedição de licença.	
+DatVencimento	datetime	Data de vencimento de licença.	
+IdFaseGrupo	bigint	Identificador da fase do grupo de informações de licença.	
+DatRenovacaoLicenca	datetime	Data de renovação de licença.	
+DescRenovacaoLicenca	varchar	Descrição da renovaão de licença.	
+FlgAtivo	bit	Indicador da situação de licença (Ativo ouInativo).	
+IdInstituicao	bigint	Identificador da instituição associada à licença.	
+IdLicencaRenovacao	bigint	Identificador de Licenca Renovacao associada à Licenca.	
+FlgExclusaoDependencia	bit	Indicativo de exclusão por dependencia.	

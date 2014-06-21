@@ -1,0 +1,10 @@
+IdRelatorioExecucao	bigint	Identificador do relatório de execução-PK.	
+DatInicial	datetime	Data de início do período do relatório.	
+DatFinal	datetime	Data de término do período do relatório.	
+DescResumo	varchar	Texto que descreve o resumo do relatório de execução.	
+IdEmpreendimento	bigint	Identificador do empreendimento associado ao relatório de execução.	
+ValPercentualConcluido	decimal	Percentual de conclusão do empreendimento.	
+IdFaseGrupo	bigint	Indica o estado em que se encontra o relatório de execução.	
+FlgAtivo	bit	Indicador da situação do relatório(ativo ou inativo).	
+NumRelatorioExecucao	varchar	Número de identificação do Relatório de Execução.	
+FlgExclusaoDependencia	bit	Indicativo de exclusão por dependencia.	

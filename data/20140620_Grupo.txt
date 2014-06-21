@@ -1,0 +1,2 @@
+IdGrupo	bigint	Identificador de grupo-PK.	
+DescGrupo	varchar	Descrição do grupo.	

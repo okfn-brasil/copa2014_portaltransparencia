@@ -1,0 +1,3 @@
+IdCidadeSede	bigint	Identificador de cidade sede-PK.	
+DescCidadeSede	varchar	Descrição (nome) da cidade sede.	
+IdUf	int	Identificador de Uf associado à cidade sede.	

@@ -1,0 +1,2 @@
+IdFaseLicitacao	bigint	Identificador de Fase Licitação-PK.	
+DescFaseLicitacao	varchar	Descrição da fase em que se encontra a licitação.	

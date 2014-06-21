@@ -1,0 +1,2 @@
+IdFaseGrupo	bigint	Identificador de Fase Grupo-PK.	
+DescFaseGrupo	varchar	Descrição da fase em que o grupo de informações se encontra.	

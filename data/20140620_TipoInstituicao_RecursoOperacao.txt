@@ -1,0 +1,3 @@
+IdTipoInstituicao_RecursoOperacao	bigint	Identificador da tabela TipoInsituicao_RecursoOperacao-PK.	
+IdTipoInstituicao	bigint	Identificador de TipoInstituicao associado à tabela.	
+IdRecursoOperacao	bigint	Identificador de RecursoOperacao associado à tabela.	

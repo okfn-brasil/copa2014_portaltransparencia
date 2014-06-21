@@ -1,0 +1,2 @@
+IdAndamentoLicenca	bigint	PK - Identificador de AndamentoLicenca.	
+DescAndamentoLicenca	varchar	Texto que descreve o andamento de licença..	

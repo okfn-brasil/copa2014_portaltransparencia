@@ -1,0 +1,10 @@
+IdDesembolso	bigint	Identificador do desembolso-PK.	
+IdRecursoCaptado	bigint	Identificador do Recurso Captado associado ao desembolso. 	
+DatDesembolso	datetime	Data do preenchimento do desembolso pelo usuário.	
+ValDesembolso	decimal	Valor do desembolso.	
+IdTipoDesembolso	bigint	Identificador do Tipo Desembolso associado ao desembolso.	
+FlgAtivo	bit	Indicador da situação do desembolso (Ativo ou Inativo).	
+DescDocumentoAutorizacao	varchar	Texto que descreve o documento de autorização do desembolso.	
+IdExecucaoFinanceira	bigint	Identificador de ExecucaoFinanceira associado ao desembolso.	
+FlgExclusaoDependencia	bit	Indicativo de exclusão por dependencia.	
+FlgPublicadoExclusao	bit	Indicativo de publicacao de exclusão.	

@@ -1,0 +1,2 @@
+IdAgrupador	bigint	Identificador de agrupador-PK.	
+DescAgrupador	varchar	Descrição do agrupador.	

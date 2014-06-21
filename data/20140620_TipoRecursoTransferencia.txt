@@ -1,0 +1,2 @@
+IdTipoRecursoTransferencia	bigint	Identificador do tipo de tranferência de recurso captado-PK.	
+DescTipoRecursoTransferencia	varchar	Descreve o tipo de transferência do recurso captado.	

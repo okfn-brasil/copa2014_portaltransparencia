@@ -1,0 +1,2 @@
+IdFundamentoLegal	bigint	Identificador de Fundamento Legal-PK.	
+DescFundamentoLegal	varchar	Descrição da fundamentação legal da dispensa ou inexigibilidade da licitação.	

@@ -1,0 +1,11 @@
+IdRecursoPrevisto	bigint	Identificador de Recurso Previsto-PK.	
+IdEmpreendimento	bigint	Identificador do empreendimento associado ao recurso.	
+ValRecurso	numeric	Valor do recurso previsto.	
+ValRecursoContrapartida	numeric	Valor de contrapartida do valor previsto.	
+FlgAtivo	bit	Indica se o recurso está ou não com situação ativa.	
+IdInstituicao	bigint	Identificador da instituição associada ao recurso.	
+IdInstituicaoContrapartida	bigint	Identificador da instituição	
+IdRecursoOperacao	bigint	Identificador do tipo de operação do recurso.	
+NumRecursoPrevisto	varchar	Número sequencial por empreendimento.	
+FlgExclusaoDependencia	bit	Indicativo de exclusão por dependencia.	
+FlgPublicadoExclusao	bit	Indicativo de publicacao de exclusão.	

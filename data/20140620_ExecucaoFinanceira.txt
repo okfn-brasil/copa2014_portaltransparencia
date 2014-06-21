@@ -1,0 +1,23 @@
+IdExecucaoFinanceira	bigint	Identificador de Execução Financeira-PK.	
+IdEmpreendimento	bigint	Identificador do empreendimento associado a execução financeira.	
+NumDocumento	varchar	Número de identificação do documento de recurso captado associado à execução financeira.	
+IdAndamentoFinanceiro	bigint	Identificador do Andamento Financeiro associado a Execução Financeira.	
+IdTipoExecucaoFinanceira	bigint	Identificador do Tipo de Execução Financeira associada a Execução Financeira.	
+DatAssinatura	datetime	Data de assinatura da execução financeira.	
+DatInicioVigencia	datetime	Data da concessão do crédito.	
+DatFinalVigencia	datetime	Data para quitação do crédito.	
+IdInstituicaoContratante	bigint	Identificador do tipo da instituição que contrata ou concede o crédito.	
+IdTipoDocumento	bigint	Identificador do tipo de documento associado a execução financeira.	
+IdInstituicaoContratado	bigint	Identificador da instituição contratada ou que recebe o crédito.	
+IdPessoaFisicaContratado	bigint	Identificador da pessoa física contratada. 	
+ValContrato	decimal	Valor de contrato do recurso captado da execução financeira. 	
+ValContrapartida	decimal	Valor de contrapartida do recurso captado da execução financeira.	
+ValTotal	decimal	Valor total do recurso captado da execução financeira.	
+DescObjeto	varchar	Breve descrição do objeto da operação de crédito.	
+IdLicitacao	bigint	Identificador da licitação associada à execução financeira.	
+FlgInexibilidadeLicitacao	bit	Indica se tem ou não inexibilidade na licitação da execução financeira.	
+FlgDispensaLicitacao	bit	Indica se tem ou não dispença de licitação na execução financeira.	
+IdFundamentoLegal	bigint	Identificador do funadamento legal de licitação associada à execução financeira.	
+IdFaseGrupo	bigint	Identificador da fase do grupo de informações associados à execução financeira.	
+FlgAtivo	bit	Indica se a execução financeira econtra-se em estado ativo ou inativo.	
+FlgExclusaoDependencia	bit	Indicativo de exclusão por dependencia.	

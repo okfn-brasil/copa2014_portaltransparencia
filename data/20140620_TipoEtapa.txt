@@ -1,0 +1,2 @@
+IdTipoEtapa	bigint	Identificador de tipo etapa-PK.	
+DescTipoEtapa	varchar	Descrição do tipo da etapa.	

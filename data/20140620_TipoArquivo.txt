@@ -1,0 +1,2 @@
+IdTipoArquivo	bigint	Identificador de tipo arquivo-PK.	
+DescTipoArquivo	varchar	Descrição do tipo de arquivo.	

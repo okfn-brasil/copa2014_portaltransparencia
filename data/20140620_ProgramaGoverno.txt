@@ -1,0 +1,3 @@
+IdProgramaGoverno	bigint	Identificador do programa do governo-PK.	
+NomProgramaGoverno	varchar	texto que descreve o nome do programa do governo.	
+NumProgramaGoverno	varchar	Número do programa do governo.	

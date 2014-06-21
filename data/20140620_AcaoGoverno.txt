@@ -1,0 +1,3 @@
+IdAcaoGoverno	bigint	Identificador de Ação Governo-PK. 	
+NomAcaoGoverno	varchar	Texto que descreve o nome da ação do governo.	
+NumAcaoGoverno	varchar	Número da ação do governo.	

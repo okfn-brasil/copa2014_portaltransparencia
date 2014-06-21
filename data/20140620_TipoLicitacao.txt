@@ -1,0 +1,2 @@
+IdTipoLicitacao	bigint	Identificador de Tipo Licitação-PK.	
+DescTipoLicitacao	varchar	Descrição de Tipo Licitação.	

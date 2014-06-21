@@ -1,0 +1,23 @@
+IdLog	bigint	Identificador de log-PK.	
+IdEmpreendimento	bigint	Identificador do empreendimento associado ao log.	
+IdEtapa	bigint	Identificador da etapa associada ao log.	
+IdRecursoPrevisto	bigint	Identificador do recurso previsto associado ao log.	
+IdTipoLogOperacao	bigint	Identificador do tipo log operacao associado ao log.	
+IdUsuario	bigint	Identificador de usuário associado ao log.	
+NomUsuario	varchar	Nome do usuário associado ao log.	
+FlgHomologado	bit	Flag responsável por indicar se o log já foi homologado ou não.	
+DthLog	datetime	Data e hora do cadastramento do log.	
+DescMensagem	ntext	Texto da mensagem da log.	
+IdGrupo	bigint	Identificador do grupo associado ao log.	
+IdEntidade	bigint	Identificador da entidade associada ao log.	
+IdArquivo	bigint	Identificador do arquivo associado ao log.	
+IdInstituicao	bigint	Identificador da instituição associada ao log.	
+NomInstituicao	varchar	Nome da instituição associada ao log.	
+IdRecursoCaptado	bigint	Identificador do recurso captado associado ao log.	
+IdAditivo	bigint	Identificador do aditivo associado ao log.	
+IdDesembolso	bigint	Identificador do desembolso associado ao log.	
+IdLicitacao	bigint	Identificador da licitação associada ao log.	
+IdExecucaoFinanceira	bigint	Identificador de execução financeira associada ao log.	
+IdLicenca	bigint	Identificador de licença associada ao log.	
+IdRelatorioExecucao	bigint	Identificador de relatorio execucao.	
+IdRecurso	bigint	Identificador do recurso associado ao registro.	

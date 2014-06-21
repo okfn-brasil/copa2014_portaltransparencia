@@ -1,0 +1,2 @@
+IdTipoLicenca	bigint	Identificador do tipo de licença-PK.	
+DescTipoLicenca	varchar	Descrição do tipo de licença.	

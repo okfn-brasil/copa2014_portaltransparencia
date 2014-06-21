@@ -1,0 +1,3 @@
+IdTipoExecucaoFinanceira	bigint	Identificador do tipo de execução financeira-PK.	
+DescTipoExecucaoFinanceira	varchar	Descrição do tipo de execução financeira.	
+IdTipoExecucaoFinanceiraPai	bigint	Identificador do tipo de execução financeira pai (contrato ou transferência de recurso).	

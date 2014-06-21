@@ -1,0 +1,2 @@
+IdTipoLogOperacao	bigint	Identificador do tipo de operação do log.	
+DescTipoLogOperacao	varchar	Descreve o tipo de operação que gerou o log. 	

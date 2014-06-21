@@ -1,0 +1,10 @@
+IdRecurso	bigint	Identificador de Recurso Próprio/Privado-PK.	
+IdEmpreendimento	bigint	Identificador do empreendimento associado ao recurso próprio/privado.	
+IdInstituicao	bigint	Identificador da instituição associado ao recurso próprio/privado.	
+DescObjeto	varchar	Breve descrição do objeto do recurso próprio.	
+ValComplementar	decimal	Valor complementar do investimento.	
+FlgAtivo	bit	Indica se o recurso próprio/privado está ou não com situação ativa.	
+IdTipoRecurso	bigint	Identificador do Tipo Recurso associado ao Recurso Próprio/Privado. 	
+IdFaseGrupo	bigint	Identificador de Fase Grupo associado ao Recurso Próprio/Privado	
+ValInvestimento	decimal	Valor do investimento do recurso próprio/privado.	
+FlgExclusaoDependencia	bit	Indicativo de exclusão por dependencia.	

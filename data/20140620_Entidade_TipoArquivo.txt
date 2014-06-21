@@ -1,0 +1,3 @@
+IdEntidade_TipoArquivo	bigint	Identificador da tabela intermediária Entidade_TipoArquivo.	
+IdEntidade	bigint	Identificador da Entidade associada à tabela.	
+IdTipoArquivo	bigint	Identificador do TipoArquivo associada à tabela.	

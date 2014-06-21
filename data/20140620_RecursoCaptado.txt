@@ -1,0 +1,19 @@
+IdRecursoCaptado	bigint	Identificador de recurso captado-PK.	
+IdTipoRecursoCaptado	bigint	Identificador de Tipo Recurso Captado associado ao recurso captado.	
+NumDocumento	varchar	Número de identificação do documento de recurso captado.	
+DatAssinatura	datetime	data em que foi preenchido o recurso captado.	
+NumOperacao	varchar	Número de identificação da operação de recurso captado.	
+DatInicioVigencia	datetime	Data de início da vigência.	
+DatFinalVigencia	datetime	Data do final da vigência.	
+IdInstituicaoCedente	bigint	Identificador da instituição cedente associada ao recurso captado.	
+IdInstituicaoBeneficiario	bigint	Identificador da instituição Beneficiário associada ao recurso captado.	
+DescObjeto	varchar	Descrição de objeto de recurso captado.	
+DescGarantia	varchar	Descrição de garantia de recurso captado.	
+ValCedido	decimal	Valor cedido do recurso captado.	
+ValContrapartida	decimal	Valor contrapartida do recurso captado.	
+FlgAtivo	bit	Indica se a situação de recurso captado esta ativa ou inativa. 	
+IdEmpreendimento	bigint	Identificador do empreendimento associado ao recurso captado.	
+IdFaseGrupo	bigint	Identificador de Fase Grupo associado ao recurso captado.	
+ValTotal	decimal	Valor total de recurso captado.	
+IdTipoRecursoTransferencia	bigint	Identificador do tipo de tranferencia de recurço associado ao recurso captado.	
+FlgExclusaoDependencia	bit	Indicativo de exclusão por dependencia.	

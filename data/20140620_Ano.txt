@@ -1,0 +1,2 @@
+IdAno	bigint	Identificador do ano-PK.	
+NumAno	int	Número que descreve o ano.	
